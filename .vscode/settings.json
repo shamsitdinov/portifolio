@@ -1,0 +1,10 @@
+{
+    "typescript.suggestionActions.enabled": true,
+    "typescript.suggest.paths": true,
+    "typescript.suggest.objectLiteralMethodSnippets.enabled": true,
+    "typescript.preferences.quoteStyle": "auto",
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "prettier.jsxSingleQuote": true,
+    "editor.minimap.autohide": false
+}
